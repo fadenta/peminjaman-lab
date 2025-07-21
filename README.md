@@ -1,10 +1,6 @@
 <!-- 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 -->
-
-# RoomBooking's Web
-Reserve Room's Web is a web-based room reservation platform designed to facilitate the scheduling and management of room usage across various campus locations. Built using the PHP programming language with the Laravel framework and powered by a MySQL database, this platform offers a user-friendly and functional interface.  Reserve Room's Web makes it easy for users to check room availability, make quick reservations, and receive instant confirmations. With comprehensive event management features, real-time status updates, and robust database integration, 
-
 ## Requirement
 - PHP
 - Composer
@@ -21,7 +17,7 @@ Reserve Room's Web is a web-based room reservation platform designed to facilita
 ## Instalation
 1. Download or clone this project.
    ```git
-   https://github.com/UkiMahfuda/peminjaman-lab.git
+   https://github.com/fadenta/peminjaman-lab.git
    ```
 2. Navigate to the `app-pinjam-lab` folder.
    ```sh
@@ -53,6 +49,3 @@ Reserve Room's Web is a web-based room reservation platform designed to facilita
    ```
 9. Open your browser and go to `127.0.0.1:8000` to use the application.
    
-10. Login:
-    - email: mahasiswa@gmail.com password: mahasiswa -> User
-    - email: admin@gmail.com password: admin -> Admin
