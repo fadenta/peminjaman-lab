@@ -4,8 +4,6 @@
 
 # RoomBooking's Web
 Reserve Room's Web is a web-based room reservation platform designed to facilitate the scheduling and management of room usage across various campus locations. Built using the PHP programming language with the Laravel framework and powered by a MySQL database, this platform offers a user-friendly and functional interface.  Reserve Room's Web makes it easy for users to check room availability, make quick reservations, and receive instant confirmations. With comprehensive event management features, real-time status updates, and robust database integration, 
-## Preview
-<img src="https://i.ibb.co/gV7LJ2n/Reserve-room-web-1.png" style="max-width:100%">
 
 ## Requirement
 - PHP
@@ -25,9 +23,9 @@ Reserve Room's Web is a web-based room reservation platform designed to facilita
    ```git
    https://github.com/UkiMahfuda/web-pinjam-ruang.git
    ```
-2. Navigate to the `app-pinjam-ruang` folder.
+2. Navigate to the `app-pinjam-lab` folder.
    ```sh
-   cd web-pinjam-ruang
+   cd peminjaman-lab
    ```
 3. Install the required components using Composer.
    ```sh
